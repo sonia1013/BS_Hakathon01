@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Hakathon01\01_CommonFactor\bin\Debug\01_CommonFactor.exe.config
+C:\Users\User\Desktop\Hakathon01\01_CommonFactor\bin\Debug\01_CommonFactor.exe
+C:\Users\User\Desktop\Hakathon01\01_CommonFactor\bin\Debug\01_CommonFactor.pdb
+C:\Users\User\Desktop\Hakathon01\01_CommonFactor\obj\Debug\01_CommonFactor.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Hakathon01\01_CommonFactor\obj\Debug\01_CommonFactor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hakathon01\01_CommonFactor\obj\Debug\01_CommonFactor.exe
+C:\Users\User\Desktop\Hakathon01\01_CommonFactor\obj\Debug\01_CommonFactor.pdb
+C:\Users\User\Desktop\作業區\Hakathon01\01_CommonFactor\bin\Debug\01_CommonFactor.exe.config
+C:\Users\User\Desktop\作業區\Hakathon01\01_CommonFactor\bin\Debug\01_CommonFactor.exe
+C:\Users\User\Desktop\作業區\Hakathon01\01_CommonFactor\bin\Debug\01_CommonFactor.pdb
+C:\Users\User\Desktop\作業區\Hakathon01\01_CommonFactor\obj\Debug\01_CommonFactor.csprojAssemblyReference.cache
+C:\Users\User\Desktop\作業區\Hakathon01\01_CommonFactor\obj\Debug\01_CommonFactor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\作業區\Hakathon01\01_CommonFactor\obj\Debug\01_CommonFactor.exe
+C:\Users\User\Desktop\作業區\Hakathon01\01_CommonFactor\obj\Debug\01_CommonFactor.pdb

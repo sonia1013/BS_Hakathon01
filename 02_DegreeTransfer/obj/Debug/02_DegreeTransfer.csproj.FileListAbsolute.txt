@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Hakathon01\02_DegreeTransfer\bin\Debug\02_DegreeTransfer.exe.config
+C:\Users\User\Desktop\Hakathon01\02_DegreeTransfer\bin\Debug\02_DegreeTransfer.exe
+C:\Users\User\Desktop\Hakathon01\02_DegreeTransfer\bin\Debug\02_DegreeTransfer.pdb
+C:\Users\User\Desktop\Hakathon01\02_DegreeTransfer\obj\Debug\02_DegreeTransfer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Hakathon01\02_DegreeTransfer\obj\Debug\_02_DegreeTransfer.Form1.resources
+C:\Users\User\Desktop\Hakathon01\02_DegreeTransfer\obj\Debug\_02_DegreeTransfer.Properties.Resources.resources
+C:\Users\User\Desktop\Hakathon01\02_DegreeTransfer\obj\Debug\02_DegreeTransfer.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Hakathon01\02_DegreeTransfer\obj\Debug\02_DegreeTransfer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hakathon01\02_DegreeTransfer\obj\Debug\02_DegreeTransfer.exe
+C:\Users\User\Desktop\Hakathon01\02_DegreeTransfer\obj\Debug\02_DegreeTransfer.pdb

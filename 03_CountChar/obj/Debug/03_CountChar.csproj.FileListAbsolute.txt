@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Hakathon01\03_CountChar\bin\Debug\03_CountChar.exe.config
+C:\Users\User\Desktop\Hakathon01\03_CountChar\bin\Debug\03_CountChar.exe
+C:\Users\User\Desktop\Hakathon01\03_CountChar\bin\Debug\03_CountChar.pdb
+C:\Users\User\Desktop\Hakathon01\03_CountChar\obj\Debug\03_CountChar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hakathon01\03_CountChar\obj\Debug\03_CountChar.exe
+C:\Users\User\Desktop\Hakathon01\03_CountChar\obj\Debug\03_CountChar.pdb
+C:\Users\User\Desktop\Hakathon01\03_CountChar\obj\Debug\03_CountChar.csprojAssemblyReference.cache

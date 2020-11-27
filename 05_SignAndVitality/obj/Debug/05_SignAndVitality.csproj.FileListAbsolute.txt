@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Hakathon01\05_SignAndVitality\bin\Debug\05_SignAndVitality.exe.config
+C:\Users\User\Desktop\Hakathon01\05_SignAndVitality\bin\Debug\05_SignAndVitality.exe
+C:\Users\User\Desktop\Hakathon01\05_SignAndVitality\bin\Debug\05_SignAndVitality.pdb
+C:\Users\User\Desktop\Hakathon01\05_SignAndVitality\obj\Debug\_05_SignAndVitality.Form1.resources
+C:\Users\User\Desktop\Hakathon01\05_SignAndVitality\obj\Debug\_05_SignAndVitality.Properties.Resources.resources
+C:\Users\User\Desktop\Hakathon01\05_SignAndVitality\obj\Debug\05_SignAndVitality.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Hakathon01\05_SignAndVitality\obj\Debug\05_SignAndVitality.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hakathon01\05_SignAndVitality\obj\Debug\05_SignAndVitality.exe
+C:\Users\User\Desktop\Hakathon01\05_SignAndVitality\obj\Debug\05_SignAndVitality.pdb
+C:\Users\User\Desktop\Hakathon01\05_SignAndVitality\obj\Debug\05_SignAndVitality.csprojAssemblyReference.cache

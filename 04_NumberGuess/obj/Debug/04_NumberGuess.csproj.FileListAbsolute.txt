@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Hakathon01\04_NumberGuess\bin\Debug\04_NumberGuess.exe.config
+C:\Users\User\Desktop\Hakathon01\04_NumberGuess\bin\Debug\04_NumberGuess.exe
+C:\Users\User\Desktop\Hakathon01\04_NumberGuess\bin\Debug\04_NumberGuess.pdb
+C:\Users\User\Desktop\Hakathon01\04_NumberGuess\obj\Debug\04_NumberGuess.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Hakathon01\04_NumberGuess\obj\Debug\_04_NumberGuess.Form1.resources
+C:\Users\User\Desktop\Hakathon01\04_NumberGuess\obj\Debug\_04_NumberGuess.Properties.Resources.resources
+C:\Users\User\Desktop\Hakathon01\04_NumberGuess\obj\Debug\04_NumberGuess.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Hakathon01\04_NumberGuess\obj\Debug\04_NumberGuess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hakathon01\04_NumberGuess\obj\Debug\04_NumberGuess.exe
+C:\Users\User\Desktop\Hakathon01\04_NumberGuess\obj\Debug\04_NumberGuess.pdb
